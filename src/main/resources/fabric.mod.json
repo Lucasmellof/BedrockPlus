@@ -9,7 +9,9 @@
     "anvian"
   ],
   "contact": {
-    "sources": "https://github.com/anviaan/BedrockPlus"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/bedrock-pus",
+    "sources": "https://github.com/anviaan/BedrockPlus",
+    "issues": "https://github.com/anviaan/BedrockPlus/issues"
   },
 
   "license": "MIT",
